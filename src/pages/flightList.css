@@ -1,0 +1,22 @@
+.flight-list-item {
+  list-style-type: none;
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
+
+.flight-details {
+  padding: 10px;
+  display: contents;
+  flex-wrap: wrap;
+}
+
+.flex-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.flight-detail {
+  margin-bottom: 5px;
+  flex: 1;
+}
